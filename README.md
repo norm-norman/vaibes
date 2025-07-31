@@ -1,2 +1,0 @@
-# vaibes
-AI Theme Generator
